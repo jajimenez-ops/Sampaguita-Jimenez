@@ -16,3 +16,5 @@ total = pow(x3,2) + pow(y3,2)
 final = math.sqrt(total)
 #Step 4: Print the output
 print(f"The distance between the coordinates is {final:.2f}")
+
+# Refelction: We have to add comments so that they understand the work and what is happening more clearly.
